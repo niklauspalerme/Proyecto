@@ -1,0 +1,10 @@
+
+1) Los archivos de Facu signin y login ya tienen su estrcutura de html interna
+
+2) funciones.php tiene funciones para el login
+
+3) Terminar de hacer el header
+
+4) Terminar de hacer las otra sesiones
+
+5) El footer tambien falta

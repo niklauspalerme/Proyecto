@@ -1,0 +1,23 @@
+/*
+
+.row-nav {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    margin-top: 60px;
+}
+ .imagen_margen {
+    vertical-align: initial;
+    border-style: none;
+    margin-left: 40px;
+    margin-bottom: 20px;
+}
+
+*/
+
+.fa, .fab, .fal, .far, .fas {
+    color: steelblue;
+}
